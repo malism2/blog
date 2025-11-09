@@ -3,26 +3,30 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "malism",
-  description: "life is easy",
+  description: "technology is cool",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'subject', link: '/android' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'technology',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'kmp', link: '/kmp' },
+          { text: 'ai', link: '/ai' },
+          { text: 'android', link: 'android' },
+          { text: 'compose', link: 'compose'},
+          { text: 'linux', link: 'linux' },
+          { text: 'leetcode', link: 'leetcode' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      //{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
 })
