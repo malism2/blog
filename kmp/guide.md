@@ -1,3 +1,8 @@
+---
+title: KMP Compose 开始
+date: 2025-11-16
+---
+
 ### Kotlin Multiplatform Compose
 
 #### 一、新建项目
