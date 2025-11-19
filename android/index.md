@@ -6,7 +6,7 @@
 
 [appwidget](./app/appwidget)
 
-[strings.xml 如何部分引用其他的 string](./app/strings)
+[如何拼接字符串strings.xml](./app/strings)
 
 ### Framework
 
