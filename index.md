@@ -68,7 +68,7 @@ features:
 
 ### 初学者路径
 1. [Linux基础](/linux/basics) - 了解Linux操作系统基本概念
-2. [Android应用开发](/android/app) - 学习Android应用开发基础
+2. [Android应用开发](/android) - 学习Android应用开发基础
 3. [Kotlin语言基础](/kmp) - 掌握Kotlin编程语言
 
 ### 进阶开发者路径
