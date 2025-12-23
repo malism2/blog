@@ -226,4 +226,4 @@ val cache = WeakHashMap<String, Any>() // 弱引用集合，避免内存泄漏
 
 4. 高频场景：单例持 Context、未取消的监听器、线程/协程未销毁。
 
-接下来是第九道面试题，聚焦跨进程通信——请说明 Android 跨进程通信（IPC）的常见方式（至少 3 种），并对比 AIDL 和 Messenger 的核心区别及适用场景？
+接下来是第九道面试题，[请说明 Android 跨进程通信（IPC）的常见方式（至少 3 种），并对比 AIDL 和 Messenger 的核心区别及适用场景？](./ipc)
