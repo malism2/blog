@@ -12,6 +12,12 @@
 - [数学基础](basics/math.md)：线性代数、概率统计、微积分
 - [编程基础](basics/programming.md)：Python 核心、数据处理库
 - [深度学习基础](basics/deep_learning.md)：神经网络结构、训练逻辑
+- [机器学习核心概念](basics/machine_learning_basics.md)：监督学习、无监督学习与强化学习
+- [神经网络原理入门](basics/neural_networks_intro.md)：感知机、激活函数与反向传播
+- [NLP 基础知识](basics/nlp_basics.md)：词嵌入、RNN 与注意力机制入门
+- [大模型 (LLM) 基础入门](basics/llm_basics_intro.md)：Transformer 架构、自注意力与预训练机制
+- [大模型进阶：PEFT 技术](basics/peft_basics.md)：LoRA、QLoRA 的原理与微调实践
+- [大模型推理优化](basics/llm_inference_optimization.md)：KV Cache、量化与编译加速技术
 
 ## 阶段二：入门感知（2-3 周）
 
@@ -46,6 +52,7 @@
 **核心知识点**：
 - [高级技术专题](advanced/advanced_topics.md)：理论基础、架构创新、安全对齐
 - [前沿应用案例](advanced/cutting_edge_applications.md)：智能科研、多模态应用、自主智能体
+- [AI 伦理与合规](advanced/ai_ethics_privacy_compliance.md)：数据隐私、安全对齐、全球合规实践
 
 ## 学习建议
 
