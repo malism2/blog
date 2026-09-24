@@ -1,0 +1,20 @@
+# ==========================================
+# 核心基础配置（最新高版本标准）
+# ==========================================
+baseURL = "https://0x10ai.com"
+title = "0x10ai"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+
+# 👈 最新版 Hugo 必须这样显式指定主题名称，或者使用下面的 module 块
+theme = ["blowfish"]
+
+# 👈 核心安全锁：强行告诉 Hugo 遇到多语言时去哪里穿透抓取模板
+layoutDir = "themes/blowfish/layouts"
+
+# ==========================================
+# 高版本专属的模块引入（保底，二选一或同时保留皆可）
+# ==========================================
+[[module.imports]]
+  path = "blowfish"
+
