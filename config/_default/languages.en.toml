@@ -1,4 +1,6 @@
 disabled = false
+languageCode = "en"
+contentDir = "content/en"
 locale = "en"
 label = "English"
 weight = 1
